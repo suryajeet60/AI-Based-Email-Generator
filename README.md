@@ -9,7 +9,7 @@ AI Email Generator is a full-stack web application that enables users to generat
 • View and Delete Generated Emails.\
 • Copy Generated Email to Clipboard.\
 • Spring AI & Ollama Ready Configuration.\
-\
+
 # 🛠️ Technology Stack
 
 # Frontend
@@ -17,26 +17,26 @@ AI Email Generator is a full-stack web application that enables users to generat
 React\
 HTML5\
 CSS3\
-\
+
 # Backend
 \
 Java 21\
 Spring Boot\
 Spring Data JPA (Hibernate)\
 Spring Security\
-\
+
 # Database
 \
 MySQL\
-\
+
 # AI
 \
 Spring AI\
 Ollama (Llama 3 Ready)\
-\
+
 # Tools
 \
 Maven\
 IntelliJ IDEA\
 VS Code\
-Git & GitHub\
+Git & GitHub
